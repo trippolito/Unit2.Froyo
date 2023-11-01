@@ -23,6 +23,6 @@
 ### Example
 
   - Say you entered chocolate 3 times, vanilla 2 times, and strawberry one time, your console will display: 
-    Chocolate: 3
-    Vanilla: 2
-    Strawberry: 1
+    CHOCOLATE: x3
+    VANILLA: x2
+    STRAWBERRY: x1 
